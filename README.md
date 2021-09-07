@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱  I’m currently learning Android SDK and Kotlin
-- :cat:  I’m currently looking to some job
 - :cat2:  You can look my repositories for code samples (especially tmdb_application)
 - :email:  How to reach me: dugarov.nima@gmail.com
 - :memo: My Telegram: https://t.me/izaphod
