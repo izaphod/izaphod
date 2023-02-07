@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭  I’m currently working on android developer position
-- 🌱  I’m currently learning Android SDK, Kotlin and Java
 - :cat2:  You can look my repositories for code samples
 - :email:  How to reach me: dugarov.nima@gmail.com
 - :memo: My Telegram: https://t.me/izaphod
